@@ -1,0 +1,107 @@
+
+
+#toets{
+background-color:green;
+size:20px;
+
+}
+#content{
+        opacity:0.84;
+        width:70%;
+        height:610px;
+        background-color:lightblue;
+        float:left;
+        border-style: solid;
+        margin-left: 15%;
+        margin-top: 1%;
+        border:solid;
+        text-align:center;
+
+
+
+.Tafels{
+  padding:30%;
+}
+
+
+
+}
+#tafelToets1{
+float:left;
+
+padding:1%;
+
+background-color:;}
+
+#tafelToets2{
+float:left;
+}
+
+#tafelToets3{
+  float:left;
+
+}
+
+#tafelToets4{
+float:left;
+}
+
+#tafelToets5{
+float:left;
+}
+
+#tafelToets6{
+float:left;
+}
+
+#tafelToets7{
+float:left;
+}
+#tafelToets8{
+float:left;
+}
+#tafelToets9{
+float:left;
+}
+#tafelToets10{
+float:left;
+}
+
+
+.baba{
+padding:20px;
+background-color: white;
+border-radius: 30%;
+margin-top: 28%;
+float:left;
+font-size: 15px;
+}
+
+
+.kleur{
+size:100px;
+padding:1%;
+border-radius:30%;
+background-color: yellow;
+opacity:1;
+
+}
+
+
+
+header{width:100%;
+       height: 55px;
+
+      opacity: 0.;
+      color: white;
+        }
+}
+
+    h1 .anton{}
+header h3{text-align: center;
+          color: blue;}
+
+.mypicture{
+           margin-left:auto;
+           margin-right:auto;
+           width:50%;}
